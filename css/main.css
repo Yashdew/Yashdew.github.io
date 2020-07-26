@@ -1,5 +1,5 @@
 body{
-    background-color: black !important;
+    background-color:  rgb(1, 1, 1) !important;
 }
 .footer{
     background-color: rgb(1, 1, 1) !important;
@@ -12,4 +12,8 @@ body{
 }
 .text1{
     color: #419A6F !important;
+}
+#cen{
+    display: flex !important;
+    justify-items: center !important;
 }
