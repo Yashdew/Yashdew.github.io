@@ -8,7 +8,7 @@ body{
     color:red !important;
 }
 .text{
-    color: aliceblue;
+    color: aliceblue !important;
 }
 .text1{
     color: #419A6F !important;
@@ -17,3 +17,7 @@ body{
     display: flex !important;
     justify-items: center !important;
 }
+.center{
+    margin : 0 auto;
+    text-align : center;
+  }
