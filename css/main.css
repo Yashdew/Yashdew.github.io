@@ -28,3 +28,7 @@ a{
 col{
     color: rgb(255, 255, 255) !important;
 }
+
+.logo{
+    columns: rgba(194, 19, 19, 0.808) !important;
+}
