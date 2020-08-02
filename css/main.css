@@ -32,3 +32,10 @@ col{
 .logo{
     columns: rgba(194, 19, 19, 0.808) !important;
 }
+.imgyash{
+height: 128px;
+  width: 128px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
