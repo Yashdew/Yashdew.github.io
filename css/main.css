@@ -1,0 +1,49 @@
+body{
+    background-color:  rgb(1, 1, 1) !important;
+}
+.footer{
+    background-color: rgb(1, 1, 1) !important;
+}
+.fa-heart{
+    color:red !important;
+}
+.text{
+    color: aliceblue !important;
+}
+.text1{
+    color: #419A6F !important;
+}
+#cen{
+    display: flex !important;
+    justify-items: center !important;
+}
+.center{
+    margin : 0 auto;
+    text-align : center;
+  }
+
+a{
+    text-decoration: none !important;
+}
+col{
+    color: rgb(255, 255, 255) !important;
+}
+
+.logo{
+    columns: rgba(194, 19, 19, 0.808) !important;
+}
+.imgyash{
+height: 128px;
+  width: 128px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imgyash1{
+    height: 256px;
+    width: 256px;
+    border-radius: 50%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
